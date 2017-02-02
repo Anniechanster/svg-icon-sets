@@ -1,0 +1,18 @@
+html {
+  font-family: "Overpass", sans-serif;
+  background-image: linear-gradient(#ff9500, #ff5e3a);
+  color: #fff;
+}
+
+.border-box {
+  border-bottom: 2px solid rgba(255, 255, 255, 1);
+}
+
+.btn {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn:hover {
+  
+}
